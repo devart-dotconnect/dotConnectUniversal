@@ -2,7 +2,7 @@
 
 ## Universal ADO.NET Data Provider
 
-[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_sqlite_cover_green.png)](https://www.devart.com/dotconnect/sqlite/)
+[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_universal_cover_green.png)](https://www.devart.com/dotconnect/universal/)
 
 [Get Started](https://www.devart.com/dotconnect/universal/getting-started.html) | [Explore Features](https://www.devart.com/dotconnect/universal/features.html) | [Documentation](https://docs.devart.com/dotconnect/universal/Product-Overview.html)
 
